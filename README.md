@@ -14,3 +14,7 @@
 ## Tips
 
 幻灯片中的 Emoji 根据 Windows 平台设置，在 macOS 等其他平台会显示为不同的图标，有些会很难看。或许有时间可以考虑针对 macOS / iOS 和 Android 单独做一个版本（大概率没时间）。
+
+## Todo
+
+- 清理没用到的 CSS 和 JavaScript 文件。
