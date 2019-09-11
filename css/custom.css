@@ -23,8 +23,8 @@
 .reveal.reveal img {
     border: none;
     box-shadow: 0 0 15px rgba(0, 0, 0, 0.15);
-    max-height: calc(66vh);
-    max-width: calc(66vw);
+    max-height: calc(50vh);
+    max-width: calc(50vw);
 }
 
 .reveal .controls button {
