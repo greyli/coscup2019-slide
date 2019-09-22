@@ -5,11 +5,9 @@
 ## Links
 
 - Live Demo：http://greyli.com/slides/coscup2019/
-
 - COSCUP 议题介绍：https://coscup.org/2019/programs/787db403-6b67-4599-9f39-74a078545cfa
 - HackMD 共笔：https://hackmd.io/1kfASFqeR1iCEq2Uqf9S_A
-
-- 录像：暂时拿不到，也许要等几周，也许要等几个月，取决于 COSCUP 志愿者的工作效率。
+- 录像：[bilibili](https://www.bilibili.com/video/av67369394) | [Youtube](https://www.youtube.com/watch?v=iKXHSTw2lpc)
 
 ## Tips
 
